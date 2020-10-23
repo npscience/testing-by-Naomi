@@ -1,4 +1,4 @@
-# Welcome to my project
+# Welcome to my project space
 
 I made this repository during the GitHub workshop for eLife Ambassadors.
 
