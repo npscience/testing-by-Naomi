@@ -2,7 +2,7 @@
 
 I made this repository during the GitHub workshop for eLife Ambassadors.
 
-## I love snails!
+## I love elephants!
 
 This is a sentence that **you can delete**. Maybe you can _replace_ it with something better!
 
